@@ -1,0 +1,10 @@
+C:\Users\tauro\Desktop\IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\bin\Debug\IngresarPrecioYMetodoDePago.exe
+C:\Users\tauro\Desktop\IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\bin\Debug\IngresarPrecioYMetodoDePago.pdb
+C:\Users\tauro\Desktop\IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\obj\Debug\IngresarPrecioYMetodoDePago.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\obj\Debug\IngresarPrecioYMetodoDePago.exe
+C:\Users\tauro\Desktop\IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\obj\Debug\IngresarPrecioYMetodoDePago.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\58-IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\bin\Debug\IngresarPrecioYMetodoDePago.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\58-IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\bin\Debug\IngresarPrecioYMetodoDePago.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\58-IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\obj\Debug\IngresarPrecioYMetodoDePago.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\58-IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\obj\Debug\IngresarPrecioYMetodoDePago.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\58-IngresarPrecioYMetodoDePago\IngresarPrecioYMetodoDePago\obj\Debug\IngresarPrecioYMetodoDePago.pdb
